@@ -1,0 +1,57 @@
+body {
+    background:url(fee.jpg);
+margin:0;
+}
+ 
+.pembungkus {
+    background-color:#0099CC;	
+    width:890px;
+    padding:10px;
+    border:2px solid #999;
+    margin:10px auto;
+}
+ 
+.header {
+    background:url(slider3.png);
+height:292px;
+    background-color:#999;
+border: 1px solid yellow;
+}
+ 
+.menu {
+float:left;
+height:40px;
+width:800px;
+background-color:#ffffff;
+border-color:yellow;
+}
+.navigasi2 {
+    float:right;
+    width:150px;
+height=1000px;
+    background:url(free.jpg);
+    min-height:820px;
+border: 1px solid yellow;
+}
+ 
+.kontent {
+float:left;
+width:82%;
+height: 905px;
+background-color:white;
+text-align: left;
+font-size:14pt;
+}
+ 
+.footer {
+    clear:both;
+    height: 20px;
+    background-color: #FFFF00;
+border: 1px solid yellow;
+}
+.td{
+background:url(1787066.jpg); 
+width: 900px; 
+height:45px; 
+
+}

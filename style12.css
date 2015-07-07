@@ -1,0 +1,57 @@
+body {
+    background:url(fee.jpg);
+margin:0;
+}
+ 
+.pembungkus {
+    background-color:#0099CC;	
+    width:890px;
+    padding:10px;
+    border:2px solid #999;
+    margin:10px auto;
+}
+ 
+.header {
+    background:url(mounticu-dalam.jpg);
+height:292px;
+    background-color:#999;
+border: 1px solid yellow;
+}
+ 
+.menu {
+    height: 20px;
+width:292px;
+background-color:#666;
+border: 1px solid red;
+}
+.navigasi2 {
+    float:right;
+    width:150px;
+height=547px;
+    background:url(free.jpg);
+    min-height:600px;
+border: 1px solid yellow;
+}
+ 
+.kontent {
+float:right;
+width:735px;
+height: 602px;
+background-color:white;
+    min-height:500px;
+text-align: left;
+font-size:14pt;
+}
+ 
+.footer {
+    clear:both;
+    height: 22px;
+    background-color: #FFFF00;
+border: 1px solid yellow;
+}
+.td{
+background:url(1787066.jpg); 
+width: 900px; 
+height:35px; 
+
+}
