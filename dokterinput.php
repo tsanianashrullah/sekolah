@@ -43,7 +43,7 @@
     <td><input type="text" name="nm_dokter" size="30" maxlength=25></td>
   </tr>
 <tr>
-    <td>Kode Poli</td>
+    <td>Kode Poliklinik</td>
     <td>:</td>
     <td><input type="text" name="kd_poli" size="10" maxlength=6></td>
   </tr>
